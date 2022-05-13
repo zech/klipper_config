@@ -1,3 +1,3 @@
 camera="usb"
-camera_usb_options="-d /dev/v4l/by-id/usb-HD_Web_Camera_HD_Web_Camera_Ucamera001-video-index0 -q 100 -r 1920x1080 -f 30"
-camera_http_options="-n -p 8080"
+camera_usb_options="-q 100 -r 1920x1080 -f 30"
+#camera_http_options="-n -p 8080"
