@@ -84,5 +84,4 @@ select  mcu in "All but RP2040 (default)" "All" "BTT Octopus" "Raspberry Pi" "Ra
   esac
 done
 
-
 cd -
